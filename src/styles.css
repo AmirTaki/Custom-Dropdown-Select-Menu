@@ -26,3 +26,12 @@ body {
     justify-content: space-between;
     box-shadow: 0 0 5px rgba(0, 0, 0, .1);
 }
+
+.select-btn i {
+    font-size: 25px;
+    transition:  .3s;
+}
+
+.select-menu.active .select-btn i {
+    transform: rotate(-180deg)
+}

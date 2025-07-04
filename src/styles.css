@@ -69,3 +69,8 @@ body {
     font-size: 25px;
     margin-right: 12px;
 }
+
+.option .option-text {
+    font-size: 18px;
+    color: #333;
+}

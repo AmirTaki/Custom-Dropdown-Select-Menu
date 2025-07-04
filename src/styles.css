@@ -60,3 +60,12 @@ body {
     background-attachment: #fff;
 
 }
+
+.options .option:hover{
+    background-color: #F2F2F2;
+}
+
+.option i  {
+    font-size: 25px;
+    margin-right: 12px;
+}

@@ -8,3 +8,8 @@
 body {
     background:#E3F2FD;
 }
+
+.select-menu {
+    width: 380px;
+    margin: 140px auto ;
+}

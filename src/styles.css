@@ -45,3 +45,18 @@ body {
     box-shadow: 0 0 3px rgba(0, 0, 0, .1);
     display: none
 }
+
+.select-menu.active .options {
+    display: block;
+}
+
+.options .option{
+    display: flex;
+    height: 55px;
+    cursor: pointer;
+    padding: 0 16px;
+    border-radius: 8px;
+    align-items: center;
+    background-attachment: #fff;
+
+}
